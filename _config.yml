@@ -1,0 +1,28 @@
+exclude: [Gemfile, Gemfile.lock, README.txt, README.md, LICENSE.txt, run_local.sh, CNAME]
+
+prologue:
+        author: Torita and Mark
+        byline: March 29, 2018
+        avatar: images/avatar.jpg
+        copyright: "2018 Torita &amp; Mark BLAH. All rights reserved."
+        bottom: 
+                - "Design by Shana Dacres based on &#8220;Prologue&#8221; by <a href=\"http://html5up.net\">HTML5 UP</a>"
+                - "Photos by ???"
+        social:
+                # Icons can be found here: http://fontawesome.io/icons/
+                # (you don't need the "fa-" prefix)
+              - text: Twitter
+                href: "#"
+                icon: twitter
+
+              - text: Facebook
+                href: "#"
+                icon: facebook
+
+              - text: Email
+                href: "#"
+                icon: envelope
+
+              - text: Github
+                href: "#"
+                icon: github
