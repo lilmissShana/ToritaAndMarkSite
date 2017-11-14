@@ -404,7 +404,7 @@
 				width: 100%;
 			}
 			
-				table.default tbody tr:nth-child(2n+2) {
+				table.default tbody tr:nth-child(3n+3) {
 					background: #f4f4f4;
 				}
 				
@@ -1146,7 +1146,7 @@
 /*********************************************************************************/
 
 	#intro {
-		background: url('images/overlay.png'), url('../images/intro.jpg');
+		background: url('images/overlay.png'), url('../images/him-knee.png');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: 0%, 30%;
@@ -1158,7 +1158,7 @@
 /*********************************************************************************/
 
 	#story {
-		background: url('images/overlay.png'), url('../images/ourstory.jpg');
+		background: url('images/overlay.png'), url('../images/champs.jpg');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: 20% 0%;
@@ -1170,7 +1170,7 @@
 /*********************************************************************************/
 
 	#ali {
-		background: url('images/overlay.png'), url('../images/ali.jpg');
+		background: url('images/overlay.png'), url('../images/non.JPG');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -1191,17 +1191,17 @@
 /*********************************************************************************/
 
 	#proposal {
-		background: url('images/overlay.png'), url('../images/ring.jpg');
+		background: url('images/overlay.png'), url('../images/ring.png');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
-		background-position: 70% 0%;
+		background-position: 30% 0%;
 	}
 /*********************************************************************************/
 /* Proposal - Jason                                                                     */
 /*********************************************************************************/
 
 	#proposal_jason {
-		background: url('images/overlay.png'), url('../images/jumping.jpg');
+		background: url('images/overlay.png'), url('../images/casual.jpg');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: 30% 0%;
@@ -1237,7 +1237,7 @@
 /*********************************************************************************/
 
 	#ceremony {
-		background: url('images/overlay.png'), url('../images/arboretum_barn.jpg');
+		background: url('images/overlay.png'), url('../images/traditional.png');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
