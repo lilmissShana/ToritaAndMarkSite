@@ -24,7 +24,7 @@
 	
 	#header .fancy {
 		font-weight: 400;
-		font-size: 20pt;
+		font-size: 16pt;
 	}
 	#header .monospace {
 		font-size: 13pt;
@@ -1194,7 +1194,7 @@
 		background: url('images/overlay.png'), url('../images/ring.png');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
-		background-position: 30% 0%;
+		background-position: 30% 0%; /***40%, 30%;**/
 	}
 /*********************************************************************************/
 /* Proposal - Jason                                                                     */
@@ -1226,10 +1226,10 @@
 /*********************************************************************************/
 
 	#engagement_photos {
-		background: url('images/overlay.png'), url('../images/fulls/engagement/AliJason-114-slightly-smaller.jpg');
+		background: url('images/overlay.png'), url('../images/both-b-w.png');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background-position: top left, top center;
 	}
 
 /*********************************************************************************/
