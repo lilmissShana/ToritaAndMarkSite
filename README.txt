@@ -16,8 +16,7 @@ I only have permission to use her work in my own onsite demos so do NOT download
 or use any of her photos without her explicit permission.
 
 
-AJ
-n33.co @n33co dribbble.com/n33
+
 
 
 Credits
