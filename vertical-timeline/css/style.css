@@ -115,7 +115,7 @@
   }
 
   a {
-    color: #785084;
+    color: white;
 
     -moz-transition: all 0.2s ease-in-out, color 0.2s ease-in-out;
     -webkit-transition: all 0.2s ease-in-out, color 0.2s ease-in-out;
