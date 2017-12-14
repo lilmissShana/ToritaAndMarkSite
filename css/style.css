@@ -1228,7 +1228,7 @@
 		background: url('images/overlay.png'), url('../images/weddingphotos/IMGL006466_resized.jpg');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
-		background-position: top bottom, bottom top;
+		background-position: 90% 10%;
 	}
 /*********************************************************************************/
 /* Wedding party                                                                         */
@@ -1251,7 +1251,16 @@
 		background-position: top,  center;
 	}
 
+/*********************************************************************************/
+/* Invite page section                                                                  */
+/*********************************************************************************/
 
+	#invite{
+		background: url('images/overlay.png'), url('../images/weddingphotos/IMGL0083_resized.jpg');
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top;
+	}
 
 
 /*********************************************************************************/
